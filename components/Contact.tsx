@@ -1,4 +1,3 @@
-import { FaLinkedin, FaTwitter, FaInstagram } from 'react-icons/fa';
 import Image from 'next/image';
 import phone from '../public/images/phone.png';
 import mail from '../public/images/mail.png';
@@ -24,7 +23,7 @@ export const Contact = () => {
 
             <div className='bg-white/10 p-6 rounded-xl max-w-[550px]'>
                 <h2 className='text-5xl font-bold text-orange-400 mb-4'>
-                    Let's connect
+                    {`Let's connect`}
                 </h2>
                 <p className='text-white/70 mb-6'>
                     Send me a message and lets schedule a call!

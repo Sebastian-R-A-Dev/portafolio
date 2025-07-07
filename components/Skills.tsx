@@ -1,4 +1,3 @@
-import { label } from "framer-motion/client"
 import { FaCss3Alt, FaHtml5, FaJsSquare } from "react-icons/fa"
 import { RiNextjsFill } from "react-icons/ri"
 
